@@ -17,7 +17,7 @@ android {
         applicationId 'com.stario.launcher'
         minSdkVersion 29
         targetSdkVersion 36
-        versionCode 1
+        versionCode 98
         versionName '0.1'
     }
 
