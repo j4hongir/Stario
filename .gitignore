@@ -4,4 +4,6 @@
 build/
 keystore/
 TODO.md
-local.properties
+local.propertiesapp-release.apk
+my-release-key.jks
+keystore/

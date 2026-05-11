@@ -36,12 +36,12 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/dm_sans_medium"
             android:letterSpacing="-0.03"
-            android:lineHeight="18sp"
+            android:lineHeight="16sp"
             android:maxLines="1"
             android:paddingRight="20dp"
             android:singleLine="true"
             android:textColor="?attr/colorOnSurface"
-            android:textSize="20sp" />
+            android:textSize="18sp" />
 
         <carbon.widget.TextView
             android:id="@+id/date"
@@ -59,7 +59,7 @@
             android:paddingRight="10sp"
             android:singleLine="true"
             android:textColor="?attr/colorOnPrimary"
-            android:textSize="20sp"
+            android:textSize="18sp" 
             android:translationX="-20dp"
             app:carbon_cornerRadius="999dp" />
 
